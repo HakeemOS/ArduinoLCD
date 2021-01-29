@@ -1,4 +1,4 @@
-//Recieves keyboard input via serial monitor and outputs to lcd display
+//Recieves keyboard input via serial monitor and outputs to lcd
 
 #include <Arduino.h>
 #include <LiquidCrystal.h>
